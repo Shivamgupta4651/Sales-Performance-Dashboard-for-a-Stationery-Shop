@@ -18,10 +18,8 @@ The dashboard highlights **product-wise sales, daily revenue trends, and key per
 
 ---
 
-## 📂 Project Files
-- `data/` → Sales dataset used for analysis  
-- `dashboard/` → Tableau workbook (`.twb` or `.twbx` file)  
-- `images/` → Screenshots of the dashboard  
+## 📸 Dashboard Preview
 
----
+![Dashboard Screenshot](https://drive.google.com/file/d/1hS3RZPN9lW6FISGktcWae9HxEuStKQqx/view?usp=sharing)
 
+> *(If the image does not load, [click here to view it on Google Drive](https://drive.google.com/file/d/1hS3RZPN9lW6FISGktcWae9HxEuStKQqx/view?usp=sharing)*
