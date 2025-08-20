@@ -20,6 +20,6 @@ The dashboard highlights **product-wise sales, daily revenue trends, and key per
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://drive.google.com/file/d/1hS3RZPN9lW6FISGktcWae9HxEuStKQqx/view?usp=sharing)
+![Dashboard Screenshot](https://drive.google.com/uc?export=view&id=1hS3RZPN9lW6FISGktcWae9HxEuStKQqx)
 
 > *(If the image does not load, [click here to view it on Google Drive](https://drive.google.com/file/d/1hS3RZPN9lW6FISGktcWae9HxEuStKQqx/view?usp=sharing)*
